@@ -107,5 +107,5 @@ seo:
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
-layout: advanced
+layout: blog
 ---
