@@ -35,5 +35,5 @@ seo:
 layout: page
 ---
 
-La mia tesi di laurea in 
+La mia tesi di laurea in *Scienze politiche e relazion
 
