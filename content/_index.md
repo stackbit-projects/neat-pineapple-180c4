@@ -36,5 +36,5 @@ layout: page
 ---
 
 Mi sono laureato in *Scienze Politiche e Relazioni internazionali* all'Università L'Orientale di Napoli, con una tesi di laurea in *Storia dell'Europa Orientale* sul **Ruolo del Calcio in URSS e Russia** *(Storia, politica, economia e società)*.
-La storia e lo sport sono state mie due grandi passioni fin da quando sono piccolo e cerco ogni volta di inserirle in qualsiasi 
+La storia e lo sport sono state mie due grandi passioni sin da quando sono piccolo e cerco ogni volta di inserirle in qualsiasi 
 
