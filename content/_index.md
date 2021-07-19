@@ -35,5 +35,5 @@ seo:
 layout: page
 ---
 
-La mia tesi di laurea in *Scienze Politiche e Relazioni internazionali* è sul **Ruolo del Calcio in URSS e Russia** 
+Mi sono laureato in *Scienze Politiche e Relazioni internazionali* è sul **Ruolo del Calcio in URSS e Russia** 
 
