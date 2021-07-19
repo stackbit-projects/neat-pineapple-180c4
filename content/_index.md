@@ -37,5 +37,5 @@ layout: page
 
 Mi sono laureato in *Scienze Politiche e Relazioni internazionali* all'Università L'Orientale di Napoli, con una tesi di laurea in *Storia dell'Europa Orientale* sul **Ruolo del Calcio in URSS e Russia** *(Storia, politica, economia e società)*.
 
-La storia e lo sport sono state mie due grandi passioni sin da quando sono piccolo e ogni volta cerco di inserirle in qualsiasi discorso mi trovo ad affrontare. Grazie alla disponibilità del Prof.[Fabio Bettanin]() ho avuto modo di esplorare i rapporti che legavano il calcio con la politica, l'economia e la società dell'URSS prima e della Russia poi, Stati che mi hanno sempre affascinato e che ho amato studiare durante il mio percorso di studi.
+La storia e lo sport sono state mie due grandi passioni sin da quando sono piccolo e ogni volta cerco di inserirle in qualsiasi discorso mi trovo ad affrontare. Grazie alla disponibilità del Prof.[Fabio Bettanin](https://docenti.unior.it/index2.php?user_id=fbettanin&content_id_start=1) ho avuto modo di esplorare i rapporti che legavano il calcio con la politica, l'economia e la società dell'URSS prima e della Russia poi, Stati che mi hanno sempre affascinato e che ho amato studiare durante il mio percorso di studi.
 
