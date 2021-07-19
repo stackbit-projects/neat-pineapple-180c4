@@ -39,5 +39,7 @@ Mi sono laureato in *Scienze Politiche e Relazioni internazionali* all'Universit
 
 La storia e lo sport sono state mie due grandi passioni sin da quando sono piccolo e ogni volta cerco di inserirle in qualsiasi discorso mi trovo ad affrontare. Grazie alla disponibilità del Prof.[Fabio Bettanin](https://docenti.unior.it/index2.php?user_id=fbettanin&content_id_start=1) ho avuto modo di esplorare i rapporti che legavano il calcio con la politica, l'economia e la società dell'URSS prima e della Russia poi, Stati che mi hanno sempre affascinato e che ho amato studiare durante il mio percorso di studi.
 
-Di seguito riporto il capitolo introduttivo della tesi. Se poi siete interessati, troverete gli altri 
+Di seguito riporto il capitolo introduttivo della tesi. Se poi siete interessati, troverete i link agli altri in fondo alla pagina.
+
+
 
