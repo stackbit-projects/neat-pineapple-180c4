@@ -1,9 +1,7 @@
 ---
 title: Benvenuti nel mio portfolio
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  Dato che non ho mai avuto modo di stampare la mia tesi (mi sono laureato in pieno primo lockdown )
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
