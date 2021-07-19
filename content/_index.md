@@ -35,5 +35,6 @@ seo:
 layout: page
 ---
 
-Mi sono laureato in *Scienze Politiche e Relazioni internazionali* all'Università L'Orientale di Napoli, con una tesi di laurea in *Storia dell'Europa Orientale* sul **Ruolo del Calcio in URSS e Russia** (Storia, politica, economia e società)
+Mi sono laureato in *Scienze Politiche e Relazioni internazionali* all'Università L'Orientale di Napoli, con una tesi di laurea in *Storia dell'Europa Orientale* sul **Ruolo del Calcio in URSS e Russia** (Storia, politica, economia e società).
+
 
