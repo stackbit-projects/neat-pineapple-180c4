@@ -1,7 +1,7 @@
 ---
 title: Benvenuti nel mio portfolio
 subtitle: >-
-  Dato che non ho mai avuto modo di stampare la mia tesi (mi sono laureato in pieno primo lockdown), ho deciso di 
+  Dato che non ho mai avuto modo di stampare la mia tesi (mi sono laureato in pieno primo lockdown), ho deciso di pubblicarla online, in questo sito che voglio utilizzare anche come mio portfolio
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
